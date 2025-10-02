@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+openai
+pypdf
+pandas
+python-multipart
+python-dotenv
+pytest
+httpx
+langgraph 
+langchain 
+langchain-openai
+matplotlib
+networkx
