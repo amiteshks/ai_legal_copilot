@@ -28,7 +28,7 @@ It automates docketing, calendaring, and notifications while maintaining **trust
 ---
 
 ## Data Pipeline
-1. **Document Ingestion** → Upload PDF/Word/Scanned file.  
+1. **Document Ingestion** → Upload PDF.  
 2. **Preprocessing** → Text extraction.  
 3. **LLM Processing** → Extract obligations, dates, events (JSON output).  
 4. **Validation Layer** → Apply rule-based calendaring logic.  
